@@ -1,6 +1,8 @@
 <template>
-    <header class="p-2 h-96 flex  items-center bg-gradient-to-r from-indigo-500 to-blue-500">
-        <h1 class="text-7xl font-extrabold text-white ml-8">Hello Word</h1>
+    <header class="flex flex-col p-2 justify-items-end h-96 bg-gradient-to-r from-indigo-500 to-blue-500">
+        <h3 class="px-2 bg-white rounded-md w-fit" >new </h3>
+        <h1 class="ml-8 font-extrabold text-white text-8xl">Hello Word</h1>
+        <img src="" alt="">
     </header>
 </template>
 

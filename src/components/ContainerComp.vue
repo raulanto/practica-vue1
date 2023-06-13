@@ -1,7 +1,7 @@
 <template>
     <main class="container mx-auto my-4">
        <section class="flex flex-col ">
-        <main class="flex">
+        <main class="grid min-h-full">
             <section class="">
                 <h1>hola</h1>
             </section>
